@@ -23,8 +23,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="img/HTML.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="img/CSS.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="img/HTML.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="img/CSS.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="img/JS.svg">
   <img align="center" alt="C" height="30" width="40" src="img/C.svg">
   <img align="center" alt="Blender" height="30" width="40" src="img/Blender.svg">
@@ -37,6 +37,8 @@
 
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="img/iconebrasil.png">
 </div>
+
+##
   
 <div> 
   <a href="https://www.youtube.com/c/MONOKINBR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
