@@ -42,10 +42,8 @@
   <a href="https://www.youtube.com/c/MONOKINBR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wallacetcbrasil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/monokin_br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.artstation.com/wallacetcbrasil" target="_blank"><img src="img/Artstation.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wallacetcbrasil/" target="_blank"><img src="img/Linkedin.svg" target="_blank"></a> 
-  <a href = "mailto:wallacetcbrasil@gmail.com"><img src="img/Gmail.svg" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/wallacetcbrasil/wallacetcbrasil/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.artstation.com/wallacetcbrasil" target="_blank"><img src="img/Artstation.svg" height="30" width="40" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallacetcbrasil/" target="_blank"><img src="img/Linkedin.svg" height="30" width="40" target="_blank"></a> 
+  <a href = "mailto:wallacetcbrasil@gmail.com"><img src="img/Gmail.svg" height="30" width="40" target="_blank"></a>
  
 </div>
