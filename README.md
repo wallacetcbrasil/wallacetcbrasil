@@ -23,17 +23,17 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="img/HTML.svg">
+  <img align="center" alt="HTML" height="70" width="70" src="img/HTML.svg">
   <img align="center" alt="CSS" height="60" width="60" src="img/CSS.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="img/JS.svg">
-  <img align="center" alt="C" height="30" width="40" src="img/C.svg">
-  <img align="center" alt="Blender" height="30" width="40" src="img/Blender.svg">
-  <img align="center" alt="Unreal Engine" height="30" width="40" src="img/UE.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="img/Unity.svg">
-  <img align="center" alt="Aseprite" height="30" width="40" src="img/Aseprite.svg">
-  <img align="center" alt="Gimp" height="30" width="40" src="img/Gimp.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="img/Figma.svg">
-  <img align="center" alt="Corel Draw" height="30" width="40" src="img/CorelDraw.svg">
+  <img align="center" alt="JavaScript" height="60" width="60" src="img/JS.svg">
+  <img align="center" alt="C" height="60" width="60" src="img/C.svg">
+  <img align="center" alt="Blender" height="60" width="60" src="img/Blender.svg">
+  <img align="center" alt="Unreal Engine" height="60" width="60" src="img/UE.svg">
+  <img align="center" alt="Unity" height="60" width="60" src="img/Unity.svg">
+  <img align="center" alt="Aseprite" height="60" width="60" src="img/Aseprite.svg">
+  <img align="center" alt="Gimp" height="60" width="60" src="img/Gimp.svg">
+  <img align="center" alt="Figma" height="60" width="60" src="img/Figma.svg">
+  <img align="center" alt="Corel Draw" height="60" width="60" src="img/CorelDraw.svg">
 
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="img/iconebrasil.png">
 </div>
@@ -44,8 +44,8 @@
   <a href="https://www.youtube.com/c/MONOKINBR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wallacetcbrasil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/monokin_br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.artstation.com/wallacetcbrasil" target="_blank"><img src="img/Artstation.svg" height="30" width="40" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wallacetcbrasil/" target="_blank"><img src="img/Linkedin.svg" height="30" width="40" target="_blank"></a> 
-  <a href = "mailto:wallacetcbrasil@gmail.com"><img src="img/Gmail.svg" height="30" width="40" target="_blank"></a>
+  <a href="https://www.artstation.com/wallacetcbrasil" target="_blank"><img src="img/Artstation.svg" height="60" width="60" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallacetcbrasil/" target="_blank"><img src="img/Linkedin.svg" height="60" width="60" target="_blank"></a> 
+  <a href = "mailto:wallacetcbrasil@gmail.com"><img src="img/Gmail.svg" height="60" width="60" target="_blank"></a>
  
 </div>
