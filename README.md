@@ -23,7 +23,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="70" width="70" src="img/HTML.svg">
+  <img align="center" alt="HTML" height="60" width="60" src="img/HTML.svg">
   <img align="center" alt="CSS" height="60" width="60" src="img/CSS.svg">
   <img align="center" alt="JavaScript" height="60" width="60" src="img/JS.svg">
   <img align="center" alt="C" height="60" width="60" src="img/C.svg">
