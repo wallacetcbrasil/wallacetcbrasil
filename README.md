@@ -22,6 +22,7 @@
   <img align="center" alt="Unity" height="60" width="60" src="img/Unity.svg">
   <img align="center" alt="Aseprite" height="60" width="60" src="img/Aseprite.svg">
   <img align="center" alt="Gimp" height="60" width="60" src="img/Gimp.svg">
+  <br>
   <img align="center" alt="Figma" height="60" width="60" src="img/Figma.svg">
   <img align="center" alt="Corel Draw" height="60" width="60" src="img/CorelDraw.svg">
 
