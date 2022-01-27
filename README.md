@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning JavaScript and C, i love search new things in tecnology in different areas.
 - 💞️ I’m looking to collaborate on my personal development and then start on the communityes and more, however i pretend to expand for differents areas of my hobbies  
 
+- Observation: I Don't know where is the problem what result in the color lighter then i will remade all again later...
+
 <div align="center">
   <a href="https://github.com/wallacetcbrasil">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallacetcbrasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,7 +29,7 @@
   <img align="center" alt="Figma" height="60" width="60" src="img/Figma.svg">
   <img align="center" alt="Corel Draw" height="60" width="60" src="img/CorelDraw.svg">
 
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="img/iconebrasil.png">
+  <img align="right" alt="pic" height="150" style="border-radius:90px;" src="img/iconebrasil.png">
 </div>
 
 ##
