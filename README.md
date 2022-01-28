@@ -38,7 +38,7 @@
   <a href="https://www.youtube.com/c/MONOKINBR" target="_blank"><img src="img/Youtube.svg" height="60" width="60" target="_blank"></a>
   <a href="https://www.instagram.com/wallacetcbrasil/" target="_blank"><img src="img/Instagram.svg" height="60" width="60" style="border-radius:90px;" target="_blank"></a>
  	<a href="https://www.twitch.tv/monokin_br" target="_blank"><img src="img/Twitch.svg" height="60" width="60" target="_blank"></a>
-  <a href="https://www.artstation.com/wallacetcbrasil" target="_blank"><img src="https://imgur.com/a/gclooLI" height="60" width="60" target="_blank"></a>
+  <a href="https://www.artstation.com/wallacetcbrasil" target="_blank"><img src="img/Artstation.svg" height="60" width="60" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallacetcbrasil/" target="_blank"><img src="img/Linkedin.svg" height="60" width="60" target="_blank"></a> 
   <a href = "mailto:wallacetcbrasil@gmail.com"><img src="img/Gmail.svg" height="60" width="60" target="_blank"></a>
  
