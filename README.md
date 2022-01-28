@@ -29,7 +29,7 @@
   <img align="center" alt="Figma" height="60" width="60" src="img/Figma.svg">
   <img align="center" alt="Corel Draw" height="60" width="60" src="img/CorelDraw.svg">
 
-  <img align="right" alt="pic" height="150" style="border-radius:90px;" src="img/iconebrasil.svg">
+  <img align="right" alt="pic" height="200" src="img/iconebrasil.svg">
 </div>
 
 ##
