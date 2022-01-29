@@ -2,6 +2,7 @@
 # BR: Ola meu nome e Wallace e este é meu GitHub #
 
 👉 EN: I love the area of Technology as a whole whether with Hardware or Software 👈
+
 👉 BR: Eu amo a área de Tecnologia ao seu todo seja com Hardware ou Software 👈
 
 En: I'm currently studying and using the following things (React, TypeScript, JavaScript, C and Gimp), I made the portfolio icons and the ones in this description, I want to update my artistic skills too to be able to do more and more complex projects by myself.
