@@ -21,7 +21,9 @@ BR: Atualmente estou estudando e usando as seguintes coisas (React, TypeScript, 
   <img align="center" alt="TypeScript" height="60" width="60" src="img/Typescript.svg">
   <img align="center" alt="React" height="60" width="60" src="img/React.svg">
   <img align="center" alt="C" height="60" width="60" src="img/C.svg"> 
+  
 ## 
+  
   <img align="center" alt="Blender" height="60" width="60" src="img/Blender.svg">
   <img align="center" alt="Unreal Engine" height="60" width="60" src="img/UE.svg">
   <img align="center" alt="Unity" height="60" width="60" src="img/Unity.svg">
@@ -31,7 +33,9 @@ BR: Atualmente estou estudando e usando as seguintes coisas (React, TypeScript, 
   <img align="center" alt="Corel Draw" height="60" width="60" src="img/CorelDraw.svg">
   <img align="right" alt="pic" height="300" src="img/iconebrasil.svg">
 </div>
+  
 ##
+  
 <div> 
   <a href="https://www.youtube.com/c/MONOKINBR" target="_blank"><img src="img/Youtube.svg" height="60" width="60" target="_blank"></a>
   <a href="https://www.instagram.com/wallacetcbrasil/" target="_blank"><img src="img/Instagram.svg" height="60" width="60" target="_blank"></a>
