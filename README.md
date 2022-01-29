@@ -31,7 +31,7 @@ BR: Atualmente estou estudando e usando as seguintes coisas (React, TypeScript, 
   <img align="center" alt="Gimp" height="60" width="60" src="img/Gimp.svg">
   <img align="center" alt="Figma" height="60" width="60" src="img/Figma.svg">
   <img align="center" alt="Corel Draw" height="60" width="60" src="img/CorelDraw.svg">
-  <img align="right" alt="pic" height="300" src="img/iconebrasil.svg">
+  <img align="right" alt="pic" height="170" src="img/iconebrasil.svg">
 </div>
   
 ##
