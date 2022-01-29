@@ -17,11 +17,12 @@
   <img align="center" alt="TypeScript" height="60" width="60" src="img/Typescript.svg">
   <img align="center" alt="React" height="60" width="60" src="img/React.svg">
   <img align="center" alt="C" height="60" width="60" src="img/C.svg">
+  
+  ##
+  
   <img align="center" alt="Blender" height="60" width="60" src="img/Blender.svg">
   <img align="center" alt="Unreal Engine" height="60" width="60" src="img/UE.svg">
   <img align="center" alt="Unity" height="60" width="60" src="img/Unity.svg">
-  
-  <br>
   <img align="center" alt="Aseprite" height="60" width="60" src="img/Aseprite.svg">
   <img align="center" alt="Gimp" height="60" width="60" src="img/Gimp.svg">
   <img align="center" alt="Figma" height="60" width="60" src="img/Figma.svg">
