@@ -1,13 +1,8 @@
-# EN: Hello my name is Wallace and this is my GitHub #
-# BR: Ola meu nome e Wallace e este é meu GitHub #
+# Hello my name is Wallace and this is my GitHub #
 
-👉 EN: I love the area of Technology as a whole whether with Hardware or Software 👈
+👉 I love the area of Technology as a whole whether with Hardware or Software 👈
 
-👉 BR: Eu amo a área de Tecnologia ao seu todo seja com Hardware ou Software 👈
-
-En: I'm currently studying and using the following things (React, TypeScript, JavaScript, C and Gimp), I made the portfolio icons and the ones in this description, I want to update my artistic skills too to be able to do more and more complex projects by myself.
-
-BR: Atualmente estou estudando e usando as seguintes coisas (React, TypeScript, JavaScript, C e Gimp), eu fiz os ícones do portfólio e os desta descrição, quero atualizar minhas habilidades artísticas também para poder cada vez mais fazer projetos complexos sozinho.
+I'm currently studying and using the following things (React, TypeScript, JavaScript, C and Gimp), I made the portfolio icons and the ones in this description, I want to update my artistic skills too to be able to do more and more complex projects by myself.
 
 <div align="center">
   <a href="https://github.com/wallacetcbrasil">
