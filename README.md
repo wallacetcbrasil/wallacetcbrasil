@@ -1,4 +1,4 @@
-# Hello my name is Wallace and this is my GitHub #
+# Hello my name is Wallace and this is my GitHub (We are in reconstruction, please await some time) #
 
 👉 I love the area of Technology as a whole whether with Hardware or Software 👈
 
