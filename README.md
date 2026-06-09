@@ -1,19 +1,19 @@
 # Hi, I'm Wallace Correia Brasil 👋
 
-### Full-Stack Developer & Developer Automation Specialist
-Based in Curitiba, Brazil. Focused on building responsive web applications and structuring AI-assisted development workflows.
+### Full-Stack Developer | Applied AI & Developer Automation
+Based in Curitiba, Brazil. Focused on responsive web applications, data automation, local LLM workflows, and AI-assisted development processes.
 
-[Portfolio](https://wallacebrasil.com) • [LinkedIn](https://www.linkedin.com/in/wallacecorreiabrasil/) • [Email](mailto:wallacetcbrasil@gmail.com)
+[Portfolio](https://2026-portfolio-pink.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/wallacecorreiabrasil) • [Email](mailto:wallacetcbrasil@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Skills / Tecnologias e Habilidades
 
-- **Frontend**: React 19, Vite, Tailwind CSS 4, Motion (Framer Motion), Next.js (previous/secondary), HTML5 & CSS3.
-- **Backend & Database**: Node.js, Express, FastAPI, Supabase, PostgreSQL, MySQL, Sequelize ORM.
-- **Automation & Scripting**: Python, OpenCV (Computer Vision), GUI Input Simulation (PyAutoGUI, Pynput), OCR (Tesseract), Document Parsing.
-- **AI Integration**: Ollama (local LLM benchmarks), agentic development workflows, prompt engineering.
-- **Tools & Infrastructure**: Git, GitHub, Docker, Linux, NPM, PIP.
+- **Frontend**: React 19, Vite, TypeScript, Tailwind CSS 4, Next.js, HTML5, CSS3.
+- **Backend & Database**: Node.js, Express, FastAPI, Supabase, PostgreSQL, MySQL, Firebase/Firestore.
+- **Automation & Scripting**: Python, OpenCV, PyAutoGUI, OCR/Tesseract, document parsing, hash validation, file signatures.
+- **Applied AI**: Ollama, LM Studio, Google Gemini, OpenAI API, RAG, local LLM benchmarks, prompt engineering, AI agents, tool calling.
+- **Tools & Infrastructure**: Git, GitHub, Docker, Linux/WSL, npm, pip.
 
 ---
 
@@ -32,10 +32,8 @@ Structuring multithreaded Python scripts (OpenCV template matching) and Electron
 
 ## 📈 GitHub Stats / Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallacetcbrasil&show_icons=true&theme=dark" alt="Wallace's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacetcbrasil&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
+![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallacetcbrasil&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacetcbrasil&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
