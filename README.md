@@ -33,9 +33,9 @@ Most active repositories are private by design. This profile therefore highlight
 
 ## GitHub Activity
 
-![GitHub contribution snake](https://raw.githubusercontent.com/wallacetcbrasil/wallacetcbrasil/output/github-contribution-grid-snake-dark.svg)
+![GitHub contribution snake](assets/github-contribution-grid-snake-dark.svg)
 
-> If the animation is not visible yet, the profile can generate it with a GitHub Action that publishes the SVG to the `output` branch.
+> Updated by GitHub Actions in `assets/github-contribution-grid-snake-dark.svg`.
 
 ---
 

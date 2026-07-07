@@ -1,0 +1,18 @@
+<svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contribution activity</title>
+  <desc id="desc">Fallback panel shown until GitHub Actions generates the contribution animation.</desc>
+  <rect width="900" height="180" rx="18" fill="#ffffff"/>
+  <rect x="1" y="1" width="898" height="178" rx="17" stroke="#d0d7de" stroke-width="2"/>
+  <g transform="translate(46 42)">
+    <text x="0" y="0" fill="#24292f" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">GitHub Activity</text>
+    <text x="0" y="34" fill="#57606a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">A Action do GitHub atualiza esta area com a animacao de contribuicoes.</text>
+    <g transform="translate(0 68)">
+      <rect x="0" y="0" width="16" height="16" rx="4" fill="#ebedf0" stroke="#d0d7de"/>
+      <rect x="24" y="0" width="16" height="16" rx="4" fill="#9be9a8"/>
+      <rect x="48" y="0" width="16" height="16" rx="4" fill="#40c463"/>
+      <rect x="72" y="0" width="16" height="16" rx="4" fill="#30a14e"/>
+      <rect x="96" y="0" width="16" height="16" rx="4" fill="#216e39"/>
+      <text x="130" y="13" fill="#57606a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">aguardando primeira execucao do workflow</text>
+    </g>
+  </g>
+</svg>
