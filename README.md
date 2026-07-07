@@ -31,14 +31,6 @@ Most active repositories are private by design. This profile therefore highlight
 
 ---
 
-## GitHub Activity
-
-![GitHub contribution snake](assets/github-contribution-grid-snake-dark.svg)
-
-> Updated by GitHub Actions in `assets/github-contribution-grid-snake-dark.svg`.
-
----
-
 *"Structuring intelligent systems with engineering logic."*
 
 *"Estruturando sistemas inteligentes com a logica da engenharia."*
